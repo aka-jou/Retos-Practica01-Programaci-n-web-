@@ -1,0 +1,38 @@
+div.container{
+    background-color: red;
+    color: red;
+    height: 80vh;
+    width: 100vh;
+    margin-left: 450px;
+    margin-top: 150px;
+    display: flex;
+    
+}
+
+
+div.square{
+    background-color: blue;
+    color: blue;
+    height: 60vh;
+    width: 80vh;
+    margin-top: 100px;
+    margin-left: 135px;
+    float: none;
+    display: flex;
+    align-items: center;
+    border-radius: 10%;
+
+}
+
+div.circle{
+    background-color: green;
+    color: green;
+    width: 30vh;
+    height: 30vh;
+    margin-left: 280px;
+    margin-top: 45px;
+    border-radius: 100%;
+    border: 10px solid white;
+    display: flex;
+
+}
